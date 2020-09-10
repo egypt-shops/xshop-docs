@@ -10,3 +10,5 @@
 | Ramy M.Saafan | [@xc0rv0](https://github.com/xc0rv0) | Mobile Developer |
 | Mahmoud Raslan | [@MhmoudRaslan](https://github.com/MhmoudRaslan) | Mobile Developer |
 | Islam Mohamed | [@IslamMGM](https://github.com/IslamMGM) | Web Developer |
+| Ammar Osama | [@AmmarlOsama](https://github.com/AmmarlOsama) | Web Developer & Machine Learning |
+
