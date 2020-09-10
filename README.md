@@ -2,6 +2,7 @@
 
 Everything Documented about the XShop project.
 
+- [Team members](./team_members.md)
 - [project proposal](./project_proposal.md)
 - [High Level Design](./high_level_design.md)
 
