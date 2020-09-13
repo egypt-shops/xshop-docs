@@ -2,12 +2,15 @@
 
 > Research How marketplace should be done considering our HLD
 
-1- Market Research.
-2- Looking for fragmented markets and how to fill gaps(Product-Market fit).
-3- How to narrow focus.
-4- Adding layer of trust.
-5- Go-TO market strategy.
-6- Early engagment with the systems(Beta program).
-7- Minimum viable product.
-8- How to convince markets' owners to swith to our system.
-9- Enhancing design, usability and user experince to make users recomends this to thier friends.
+## 1- Users
+1- Recommendations due to last order.
+2- Latest offers form nearby shops.
+3- Products categories.
+
+## 2- Shops' Owners
+1- Subscription plans if not subscriped.
+2- Manage rules(Cashier, Data-Entry Clerk, Manager, etc).
+3- Manage and view shop's products.
+4- View logs (Added, Deleted products).
+5- View shop's orders history.
+6- View due taxes.
