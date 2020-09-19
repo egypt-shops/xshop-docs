@@ -2,6 +2,7 @@
 
 Everything Documented about the XShop project.
 
+- [Team members](./team_members.md)
 - [project proposal](./project_proposal.md)
 - [High Level Design](./high_level_design.md)
 
@@ -9,6 +10,7 @@ Everything Documented about the XShop project.
 
 - clone the repo / pull to get latest
 - make sure you're on `develop` branch `$ git checkout develop`
+- if you already have the repo, make sure you have latest updates `$ git pull origin develop`
 - branch out `$ git checkout -b new_branch_name`
 - write your text
 - push to github `$ git push origin new_branch_name`
