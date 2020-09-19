@@ -58,7 +58,7 @@ A portal for governmental supervisors to track the shops’ incomes and calculat
 
 ## XShop web flow
 
-![XShop web flow](assets/images/xshop-web.map.svg)
+![XShop web flow](assets/images/xshop-web_hld_01.png)
 
 ## XShop mobile flow
 
