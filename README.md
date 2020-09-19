@@ -4,11 +4,12 @@ Everything Documented about the XShop project.
 
 - [Team members](./team_members.md)
 - [The Project's Proposal](./project_proposal.md)
+- [Tech Stack](tech_stack.md)
+- [Software tools](software_tools.md)
 - [High Level Design](./high_level_design.md)
 - [Detailed Design](detailed_design)
   - [user_sign_in](detailed_design/user_sign_in.md)
   - ....
-
 - [Research Notes](research_notes)
   - [The Marketplace](research_notes/marketplace.md)
   - [Order Fulfillment](research_notes/order_fulfilment.md)
