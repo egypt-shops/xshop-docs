@@ -6,7 +6,7 @@ XShop is a SaaS platform for Egyptian shops, that helps keep up with Egypt’s d
 
 ## Main Features
 
-![HLD of main features](https://raw.githubusercontent.com/AhmedAbdallah125/HLD-/master/xshop-main%20features%20map.png)
+![Main Features](assets/images/xshop_main_features.png)
 
 ### Inventory & PoS
 
@@ -58,8 +58,8 @@ A portal for governmental supervisors to track the shops’ incomes and calculat
 
 ## XShop web flow
 
-![XSHOP web flow](https://raw.githubusercontent.com/egypt-shops/xshop-docs/1aa02bf44f8efb0fc52c0fb013a391bf2d215877/assets/images/xshop-web.map.svg)
+![XShop web flow](assets/images/xshop-web_hld_01.png)
 
 ## XShop mobile flow
 
-![XSHOP mobile flow](https://raw.githubusercontent.com/AhmedAbdallah125/HLD-/master/xshop-mobile%20map.png)
+![XShop mobile flow](assets/images/xshop-mobile.map.png)
