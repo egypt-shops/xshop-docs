@@ -3,8 +3,20 @@
 Everything Documented about the XShop project.
 
 - [Team members](./team_members.md)
-- [project proposal](./project_proposal.md)
+- [The Project's Proposal](./project_proposal.md)
 - [High Level Design](./high_level_design.md)
+- [Detailed Design](detailed_design)
+  - [user_sign_in](detailed_design/user_sign_in.md)
+  - ....
+
+- [Research Notes](research_notes)
+  - [The Marketplace](research_notes/marketplace.md)
+  - [Order Fulfillment](research_notes/order_fulfilment.md)
+  - [Pricing Plans](research_notes/pricing_plans.md)
+  - [PWA offline](research_notes/pwa_offline.md)
+  - [System Reports](research_notes/reports.md)
+  - [Taxes](research_notes/taxes.md)
+  - [Traceability Matrix](research_notes/traceability_matrix.md)
 
 ## How to contribute
 
