@@ -1,25 +1,30 @@
-# **_Pricing Plans_**
+# Pricing Plans
 
-First Plan
-: This is the **Basic Plan** .
-: For small & moderate markets .
+## First Plan
 
-Second Plan
-: This is the **Standard Plan** .
-: For small & moderate markets
-: Extra Features
+This is the **Basic Plan**.
+For small & moderate markets.
 
-Third Plan
-: This is the **Premium Plan** .
-: For marketplaces
-: Alot of Features and more :wink:
+## Second Plan
 
-| Basic Plan      | Standard Plan            | Premium Plan             |
-| --------------- | ------------------------ | ------------------------ |
-| Admin Dashboard | Admin Dashboard          | Admin Dashboard          |
-| Demo            | AI recommendation system | AI recommendation system |
-| Demo            | Cashless payments        | Cashless payments        |
+This is the **Standard Plan**
+For small & moderate markets
+Extra Features
 
-> We are going to make a bussness plan Strategy
+## Third Plan
+
+This is the **Premium Plan**
+For marketplaces
+A lot of Features and more :wink:
+
+| Basic Plan | Standard Plan | Premium Plan | Features                 |
+| ---------- | ------------- | ------------ | ------------------------ |
+| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Admin Dashboard
+| :x: | :x: | :heavy_check_mark: | AI recommendation system
+| :x: | :heavy_check_mark: | :heavy_check_mark: | Cashless payments
+| :x: | :heavy_check_mark: | :heavy_check_mark: | Marketplace
+| :x: | :x: | :heavy_check_mark: | Data intel
+
+> We are going to make a business plan Strategy
 > and see the market,needs, costs, Incomes.
 > After That we will update and add extra stuff
