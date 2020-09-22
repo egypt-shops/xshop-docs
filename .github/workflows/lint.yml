@@ -12,5 +12,5 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Markdown Linting Action
-        uses: avto-dev/markdown-lint@v1.3.1
+      - name: Lint Markdown
+        uses: actionshub/markdownlint@1.2.0
