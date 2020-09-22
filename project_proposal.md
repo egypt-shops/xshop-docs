@@ -28,13 +28,13 @@ XShop is a SaaS subscription-based Inventory system where shops and local superm
 - Completely understandable, feature-rich and also complex-enough system, for us to understand and achieve maximum benefit...
 - Real-world for the upper-middle Egyptian market requirement satisfaction
 - Good fit in the CV
-- Great tech stack: git, github, python, javascript, Django, DjangoRESTFramework, Progressive Web App, asynchronous/real-time programming, Reactjs, ReactNative, SaaS, etc...
+- Great tech stack: git, GitHub, python, javascript, Django, DjangoRESTFramework, Progressive Web App, asynchronous/real-time programming, Reactjs, ReactNative, SaaS, etc...
 
 **For Shops:**
 
 - PoS for cashiers
 - Data entry panel
-- Other user types based on the heirarchy of the shop's staff
+- Other user types based on the hierarchy of the shop's staff
 - Inventory Admin panel for Shop owners
 - E-commerce subscription option
 
