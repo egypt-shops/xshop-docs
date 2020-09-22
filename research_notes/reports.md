@@ -36,6 +36,6 @@
 
 To make the report we will divide it in 3 stages
 
-1. getting data from database using python pandas library (multi-indexing or pivot tables)
-2. passing this data to Django template to make html file (...)
-3. converting this file to pdf if needed using pdfkit in python
+- getting data from database using python pandas library (multi-indexing or pivot tables)
+- passing this data to Django template to make html file (...)
+- converting this file to pdf if needed using pdfkit in python
