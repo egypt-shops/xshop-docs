@@ -1,0 +1,12 @@
+name: xshop-docs linting
+
+on: [push, pull_request]
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Lint Markdown
+        uses: actionshub/markdownlint@1.2.0
