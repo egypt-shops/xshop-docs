@@ -26,6 +26,6 @@ Everything Documented about the XShop project.
 - if you already have the repo, make sure you have latest updates `$ git pull origin develop`
 - branch out `$ git checkout -b new_branch_name`
 - write your text
-- push to github `$ git push origin new_branch_name`
+- push to GitHub `$ git push origin new_branch_name`
   - if you push you'll find a link in the terminal, click on it to make a PR
-- go to github, the repo page, and make a PR (Google it.)
+- go to GitHub, the repo page, and make a PR (Google it.)

@@ -1,6 +1,10 @@
 name: xshop-docs linting
 
-on: [push, pull_request]
+on:
+  push:
+    branches: [develop, master]
+  pull_request:
+    branches: [develop, master]
 
 jobs:
   markdown:
