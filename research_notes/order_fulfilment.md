@@ -21,5 +21,5 @@ This step includes uploading the information to the software that the order has 
 
 After delivering the order there are two actions that may happen:
 
-1. Receiving the product without any problem and uploading the data to the software for  successful transaction.
-2. The product may have some issues and the customer may return the product and refuse to Receive it so it will be a failed transaction.
+  1. Receiving the product without any problem and uploading the data to the software for  successful transaction.
+  2. The product may have some issues and the customer may return the product and refuse to Receive it so it will be a failed transaction.
