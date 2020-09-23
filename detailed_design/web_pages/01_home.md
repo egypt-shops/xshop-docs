@@ -1,24 +1,16 @@
-# Web Pages
+# Homepage
 
-The main screens of the website
+The first page of the website
 
-## Home Page
+## Path: `/`
 
-The first page of the website, path: `/`
+## Design Elements
 
-- Includes a welcome message
-- User sign in
+- A welcome message
+- User Login form
   - Mobile
   - Password
 
-## PoS
+## Business Logic Checklist
 
-The page for cashiers
-
-## Data Entry
-
-A page to enter new products
-
-## Dashboard
-
-The Admin/Managers Page
+- [ ] Available Publicly
