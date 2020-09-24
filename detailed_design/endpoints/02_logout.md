@@ -2,7 +2,7 @@
 
 ## Specs
 
-### Path: `/logout`
+### Path: `/users/logout`
 
 ### Method: `POST`
 

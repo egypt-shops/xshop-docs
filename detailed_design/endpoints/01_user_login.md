@@ -2,7 +2,7 @@
 
 ## Specs
 
-### Path: `/login`
+### Path: `/users/login`
 
 ### Method: `POST`
 
