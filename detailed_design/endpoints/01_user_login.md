@@ -19,13 +19,13 @@ None
 
 ### Response
 
-**Code 200:** Successful login, following body returned
+**Success, Code 200:** Successful login, following body returned
 
-| field | type   | status    | description                             |
-| ----- | ------ | --------- | --------------------------------------- |
-| token | string | mandatory | token to be used for further operations |
+```JSON
+{"token": "string_of_the_token_here"}
+```
 
-**Code 400:** Invalid login, error messages returned
+**Failure, Code 4xx:** Invalid login, error messages returned based on the error
 
 ## Business Logic Checklist
 

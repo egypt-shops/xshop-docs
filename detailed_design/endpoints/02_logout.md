@@ -18,9 +18,13 @@ None
 
 ### Response
 
-**Code 200:** Logged out successfully
+**Success, Code 200:**
 
-**Code 400:** Invalid logout, error messages returned
+```JSON
+{"detail":"Logged out successfully"}
+```
+
+**Failure, Code 4xx:** Invalid logout, error messages returned based on the error
 
 ## Business Logic Checklist
 
