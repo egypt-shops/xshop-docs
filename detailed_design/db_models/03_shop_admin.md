@@ -1,6 +1,6 @@
 # ShopAdmin Model
 
-The User DB Model specs
+The ShopAdmin DB Model specs
 
 ## Fields
 
