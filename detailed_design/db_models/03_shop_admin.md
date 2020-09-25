@@ -1,4 +1,4 @@
-# User Model
+# ShopAdmin Model
 
 The User DB Model specs
 
@@ -12,4 +12,4 @@ Same as [User](01_user.md)
 
 ## Business Logic Checklist
 
-- [ ] Superuser is a User
+- [ ] ShopAdmin must be connected to a [Shop](02_shop.md)
