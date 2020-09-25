@@ -2,7 +2,7 @@
 
 Tools used to produce documents, designs, etc...
 
-## [mindmaps](https://www.mindmaps.app/#) and [FreeMind](https://snapcraft.io/freemind)
+## [mindmaps](https://www.mindmaps.app/#)
 
 Mind Mapping software for thoughts flow
 
