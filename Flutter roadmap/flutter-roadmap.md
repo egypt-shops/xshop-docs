@@ -18,30 +18,36 @@
 - ### Sign in
   
     Don't allow login with empty text fields
+    
     ![sign in](./images/sign-in.png)
 
 - ### Main
 
   - Buttons in Grid layout
   - menu and search icons in app bar
+  
   ![main](./images/main.jpg)
 
 - ### Food
 
     List of text  (product name and price)
+    
     ![mixed list](./images/mixed-list.png)
 
 - ### Electrical devices
 
     list of Card widget with image, description and price
+    
     ![card list](./images/card-list.gif)
 
 - ### Cosmetics
 
     Grid list with circular image
-    ![grid list](./images/grid-list.gif)    ![grid list](./images/grid-view.png)
+    
+    ![grid list](./images/grid-list.gif)   
 
 - ### About store
   
     Photo, contact&location icons and text info
+    
     ![about](./images/about.jpg)
