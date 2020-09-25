@@ -1,12 +1,12 @@
 # PricingPlan Model
 
-The User DB Model specs
+The PricingPlan DB Model specs
 
 ## Fields
 
 | field | type       | status    | description           |
 | ----- | ---------- | --------- | --------------------- |
-| name  | Char       | optional  | user's name           |
+| name  | Char       | optional  | PricingPlan's name    |
 | price | MoneyField | Mandatory | The price of the plan |
 
 ## Methods
