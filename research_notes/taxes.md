@@ -1,4 +1,3 @@
-
 # Taxes Laws for trades and sales in Egypt
 
 ## Value Added Tax
