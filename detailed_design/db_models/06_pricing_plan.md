@@ -4,10 +4,10 @@ The User DB Model specs
 
 ## Fields
 
-| field  | type       | status    | description           |
-| ------ | ---------- | --------- | --------------------- |
-| name   | Char       | optional  | user's name           |
-| amount | MoneyField | Mandatory | The price of the plan |
+| field | type       | status    | description           |
+| ----- | ---------- | --------- | --------------------- |
+| name  | Char       | optional  | user's name           |
+| price | MoneyField | Mandatory | The price of the plan |
 
 ## Methods
 
