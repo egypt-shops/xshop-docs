@@ -15,4 +15,4 @@ The User DB Model specs
 
 ## Business Logic Checklist
 
-- [ ] A PricingPlan must be connected to a [Shop](02_shop.md)
+- [ ] A PricingPlan must be connected to a [Shop](shop.md)

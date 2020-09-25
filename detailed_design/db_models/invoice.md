@@ -18,8 +18,8 @@ The Invoice DB Model specs
 
 ## Business Logic Checklist
 
-- [ ] An Invoice must be connected to a [Shop](02_shop.md)
-- [ ] An Invoice must be connected to a [Cashier](05_cashier.md)
-- [ ] An Invoice can be added by [Cashier](05_cashier.md) Users only
+- [ ] An Invoice must be connected to a [Shop](shop.md)
+- [ ] An Invoice must be connected to a [Cashier](cashier.md)
+- [ ] An Invoice can be added by [Cashier](cashier.md) Users only
 - [ ] Taxes must be calculated based on ProductItem
 - [ ] On Invoice Creation ProductItems must be deducted from the stock

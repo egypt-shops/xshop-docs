@@ -18,7 +18,7 @@ The Product DB Model specs
 
 ## Business Logic Checklist
 
-- [ ] A Product should be connected to a [Shop](02_shop.md)
+- [ ] A Product should be connected to a [Shop](hop.md)
 - [ ] A Product must be searchable using a Bar Code
 - [ ] A Product must be searchable using a QR code
-- [ ] A Product can be added/edited by [ShopAdmin](03_shop_admin.md) & [DataEntryClerk](04_data_entry_clerk.md) Users only
+- [ ] A Product can be added/edited by [ShopAdmin](shop_admin.md) & [DataEntryClerk](data_entry_clerk.md) Users only
