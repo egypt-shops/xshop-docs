@@ -1,6 +1,6 @@
 # Dashboard
 
-The ShopAdmin/Managers/SuperAdmin/Accountant Page
+The ShopManager/ShopStaff/SuperAdmin/Accountant Page
 
 ## Path: `/admin`
 

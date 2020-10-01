@@ -21,4 +21,4 @@ The Product DB Model specs
 - [ ] A Product should be connected to a [Shop](hop.md)
 - [ ] A Product must be searchable using a Bar Code
 - [ ] A Product must be searchable using a QR code
-- [ ] A Product can be added/edited by [ShopAdmin](shop_admin.md) & [DataEntryClerk](data_entry_clerk.md) Users only
+- [ ] A Product can be added/edited by [ShopManger](shop_manager.md) & [DataEntryClerk](data_entry_clerk.md) Users only

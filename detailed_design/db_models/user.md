@@ -18,5 +18,5 @@ The User DB Model specs
 
 ## Business Logic Checklist
 
-- [ ] A user must have a type (superuser, shop_admin, cashier, etc...) when created
+- [ ] A user must have a type (superuser, shop_manager, cashier, etc...) when created
 - [ ] A Token must be generated on user creation
