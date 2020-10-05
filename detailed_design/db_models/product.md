@@ -4,13 +4,13 @@ The Product DB Model specs
 
 ## Fields
 
-| field   | type        | status    | description (verbose name) |
-| ------- | ----------- | --------- | -------------------------- |
-| name    | Char        | mandatory | Product's name             |
-| barcode | PhoneNumber | mandatory | Product's BarCode          |
-| qr_code | PhoneNumber | mandatory | Product's QR Code          |
-| stock   | Int         | mandatory | How many in stock          |
-| price   | Money       | mandatory | Product's Price            |
+| field   | type        | status       | description (verbose name) |
+| ------- | ----------- | ------------ | -------------------------- |
+| name    | Char        | mandatory    | Product's name             |
+| barcode | ToBeDefined | one_required | Product's BarCode          |
+| qr_code | ToBeDefined | one_required | Product's QR Code          |
+| stock   | Int         | mandatory    | How many in stock          |
+| price   | Money       | mandatory    | Product's Price            |
 
 ## Methods
 
