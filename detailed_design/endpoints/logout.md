@@ -10,11 +10,13 @@
 
 None
 
+### Headers
+
+Key: `Authorization`, Value: `Token user's_token_here`
+
 ### Request
 
-| field | type   | status    | description                 |
-| ----- | ------ | --------- | --------------------------- |
-| token | string | mandatory | User's authentication token |
+None
 
 ### Response
 
