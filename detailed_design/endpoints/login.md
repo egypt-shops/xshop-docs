@@ -2,7 +2,7 @@
 
 ## Specs
 
-### Path: `/users/login`
+### Path: `api/users/login`
 
 ### Method: `POST`
 
@@ -22,12 +22,21 @@ None
 **Success, Code 200:** Successful login, following body returned
 
 ```JSON
-{"token": "string_of_the_token_here"}
+{
+  "token": "string_of_the_token_here",
+  "user": {
+    "name": "user's name",
+    "mobile": "user's mobile",
+    "email": "user's email",
+    "type": "users type"
+  }
+}
 ```
 
 **Failure, Code 4xx:** Invalid login, error messages returned based on the error
 
-## Business Logic Checklist
+## Checklist
 
-- [ ] A user must be registered on the system to log in
-- [ ] Return a Token for the user after a successful login
+- [x] A user must be registered on the system to log in
+- [x] Return a Token for the user after a successful login
+- [ ] Return User's data
