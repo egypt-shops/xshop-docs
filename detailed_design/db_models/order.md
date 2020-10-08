@@ -13,7 +13,7 @@ The Order DB Model specs
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] An Order must be connected to a [Shop](shop.md)
 - [ ] An Order must be connected to a [Cashier](cashier.md) or a [Customer](customer.md)

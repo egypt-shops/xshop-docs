@@ -17,7 +17,7 @@ The Invoice DB Model specs
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] An Invoice must be connected to a [Shop](shop.md)
 - [ ] An Invoice must be connected to a [Cashier](cashier.md)

@@ -10,7 +10,7 @@ Same as [User](user.md)
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] Customer is a [User](user.md)
 - [ ] Customer is allowed to see the Marketplace and

@@ -26,7 +26,7 @@ None
 
 **Failure, Code 4xx:** Invalid logout, error messages returned based on the error
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A user must be signed-in to logout
 - [ ] A user must be authenticated to use this endpoint

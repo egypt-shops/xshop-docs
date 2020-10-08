@@ -16,7 +16,7 @@ The User DB Model specs
 - `__str__` gets instance as string
 - `__repr__` representation of instance in some contexts
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A user must have a type (superuser, shop_manager, cashier, etc...) when created
 - [ ] A Token must be generated on user creation

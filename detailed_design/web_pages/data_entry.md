@@ -8,7 +8,7 @@ A page to enter new products or update products in stock
 
 - QR/Bar Code Scanner
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A user must be authenticated to see this page
 - [ ] A user must belong to a shop

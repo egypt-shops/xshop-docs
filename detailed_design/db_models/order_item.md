@@ -16,7 +16,7 @@ The OrderItem DB Model specs
 - total_price
 - total_taxes
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A ProductItem must be connected to an [Order](order.md)
 - [ ] Must be saved upon Order Creation

@@ -16,7 +16,7 @@ The Product DB Model specs
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A Product should be connected to a [Shop](hop.md)
 - [ ] A Product must be searchable using a Bar Code

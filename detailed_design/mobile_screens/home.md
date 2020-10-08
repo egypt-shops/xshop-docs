@@ -9,6 +9,6 @@ The first page of the mobile app
   - Mobile
   - Password
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] Page is available publicly

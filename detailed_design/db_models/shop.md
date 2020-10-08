@@ -15,6 +15,6 @@ The User DB Model specs
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] ...

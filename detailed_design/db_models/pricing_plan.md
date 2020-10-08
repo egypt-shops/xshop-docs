@@ -13,6 +13,6 @@ The PricingPlan DB Model specs
 
 ....
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A PricingPlan must be connected to a [Shop](shop.md)

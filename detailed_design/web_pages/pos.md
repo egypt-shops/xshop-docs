@@ -8,7 +8,7 @@ The cashiers page to make new orders and create invoices
 
 - QR/Bar Code Scanner
 
-## Business Logic Checklist
+## Checklist
 
 - [ ] A user must be authenticated to see this page
 - [ ] A user must belong to a shop
