@@ -13,6 +13,7 @@ Everything Documented about the XShop project.
     - [Point of Sale](detailed_design/web_pages/pos.md)
     - [Data Entry](detailed_design/web_pages/data_entry.md)
     - [Admin Dashboard](detailed_design/web_pages/dashboard.md)
+    - [Login](detailed_design/web_pages/login.md)
   - [API Endpoints](detailed_design/endpoints/)
     - [User Login](detailed_design/endpoints/login.md)
     - [User Logout](detailed_design/endpoints/logout.md)
