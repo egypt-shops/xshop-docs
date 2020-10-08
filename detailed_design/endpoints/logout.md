@@ -4,7 +4,7 @@
 
 ### Path: `api/users/logout`
 
-### Method: `POST`
+### Method: `GET`
 
 ### Query Parameters
 
