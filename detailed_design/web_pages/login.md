@@ -14,6 +14,8 @@ The login page for ordinary (non-admin) users
 ## Checklist
 
 - [ ] Available Publicly
+- [ ] A user must be registered to login
+- [ ] Errors are shown correctly in case of invalid login
 - [ ] has a link in the [Home](home.md) page
 - [ ] styled with django crispy forms (bootstrap4)
 - [ ] redirects to:
