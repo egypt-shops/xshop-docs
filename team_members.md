@@ -11,7 +11,7 @@
 | Islam Mohamed | [@IslamMGM](https://github.com/IslamMGM) | FrontEnd Developer/Lead |
 | Ammar Osama | [@AmmarlOsama](https://github.com/AmmarlOsama) | FrontEnd Developer |
 | Mahmoud Raslan | [@MhmoudRaslan](https://github.com/MhmoudRaslan) | FrontEnd Developer |
-| Mohamed A. Samy | [@]() | FrontEnd Developer |
+| Mohamed A. Samy | [@MuhammadSamy1](https://github.com/MuhammadSamy1) | FrontEnd Developer |
 ||||
 | Mohamed Abd El-Sattar | [@mohamed-sattar](https://github.com/mohamed-sattar) | Mobile Developer/Lead |
 | Ramy M.Saafan | [@xc0rv0](https://github.com/xc0rv0) | Mobile Developer |
